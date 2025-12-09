@@ -1,5 +1,13 @@
 [
   {
+    "slug": "12-09",
+    "title": "测试blog",
+    "tags": [],
+    "date": "2025-12-09",
+    "summary": "",
+    "cover": "/blogs/12-09/78b47300c801acd3.png"
+  },
+  {
     "slug": "texture-format",
     "title": "图片格式 —— 关于材质的大小研究",
     "tags": [
